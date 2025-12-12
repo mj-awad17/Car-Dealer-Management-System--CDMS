@@ -3,6 +3,18 @@
 A complete Relational Database Management System (RDBMS) for a medium-sized car dealership, built in Microsoft Access to manage cars, customers, sales, staff, and services in a reliable, scalable, and structured way.
 
 ---
+<!-- <p align="center">
+  <img style='border-radius:15px', src="https://github.com/mj-awad17/Car-Dealer-Management-System--CDMS/blob/main/Banner-car-management-system.png" alt="Car Dealership Management System Banner" width="100%">
+</p> -->
+
+<p align="center">
+  <img
+    src="https://github.com/mj-awad17/Car-Dealer-Management-System--CDMS/blob/main/Banner-car-management-system.png"
+    alt="Car Dealership Management System Banner"
+    style="border-radius: 18px; max-width: 100%; height: auto;"
+  />
+</p>
+
 
 ## ✨ Project Overview
 
