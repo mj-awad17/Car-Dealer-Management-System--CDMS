@@ -148,16 +148,6 @@ Each form supports:
 
 ---
 
-## 🧩 SEO-Friendly Keywords & Tags
-
-**Keywords:**  
-`Car Dealer Management System`, `Car Dealership Database`, `MS Access RDBMS`, `Microsoft Access Project`, `Relational Database Design`, `ERD`, `3NF Normalization`, `SQL Queries`, `Inventory Management`, `Sales and Service Management`, `Customer Management System`, `Staff Management`, `Dealership Software`, `Database Project`
-
-**Hashtags:**  
-`#CarDealerManagement` `#MSAccess` `#DatabaseDesign` `#RDBMS` `#SQL` `#ERD` `#Normalization` `#GDPR` `#DealershipSoftware` `#InventoryManagement`
-
----
-
 ## 👨‍💻 Author / Developer
 
 Developed by **Muhammad Jawad** – Database Designer & Developer.  
