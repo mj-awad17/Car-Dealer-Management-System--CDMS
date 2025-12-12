@@ -29,15 +29,15 @@ The system supports inventory control, customer management, sales tracking, staf
 - 📊 **Entities:** Cars, Customers, Sales, Staff, Services  
 - 📚 **Fully normalized to 3NF** to improve consistency and reduce redundancy  
 - ✅ **Primary and Foreign Keys** with referential integrity enforced  
-- 🧪 **Validation rules** for IDs, dates, prices, mileage, and contact info  
-- 🧾 **10–15 realistic records per table** to simulate real dealership data  
+- 📦 **Validation rules** for IDs, dates, prices, mileage, and contact info  
+- 💸 **10–15 realistic records per table** to simulate real dealership data  
 - 🔎 **Business-focused SQL queries** for reporting and analytics  
 - 🖥️ **User-friendly forms** for CRUD operations (no direct table editing needed)  
 - 🔒 **Basic privacy, security, and GDPR-aligned practices** for personal data
 
 ---
 
-## 🧱 Database Design
+## 🌼 Database Design
 
 ### Entities & Relationships
 
@@ -96,7 +96,7 @@ The system includes at least **10 analytical SQL queries**, such as:
 - 👨‍💼 **Sales by staff member** for performance evaluation  
 - 💰 **Total sales revenue** summary  
 - 🛠️ **Cars with service history** and last service date  
-- 🧍 **Customer purchase history** (loyalty/retention insight)  
+- ⚡ **Customer purchase history** (loyalty/retention insight)  
 - 📦 **Car stock summary** (sold vs available)  
 - 💸 **Total service cost** summary  
 - 📅👨‍💼 **Sales by date and staff member**  
